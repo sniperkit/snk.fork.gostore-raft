@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package handler
 
 import (
@@ -6,7 +11,6 @@ import (
 	"github.com/micro/go-micro/server"
 	proto "github.com/osiloke/gostore_raft/service/proto/store"
 	"github.com/osiloke/gostore_raft/store"
-
 	"golang.org/x/net/context"
 )
 

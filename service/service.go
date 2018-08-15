@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package service
 
 import (
@@ -15,7 +20,6 @@ import (
 	"github.com/micro/go-micro/client"
 	"github.com/micro/go-micro/registry"
 	"github.com/micro/go-micro/server"
-
 	"github.com/osiloke/gostore_raft/service/handler"
 	proto "github.com/osiloke/gostore_raft/service/proto/service"
 	"github.com/osiloke/gostore_raft/store"
